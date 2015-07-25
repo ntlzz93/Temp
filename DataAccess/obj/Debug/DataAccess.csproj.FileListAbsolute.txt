@@ -1,0 +1,12 @@
+E:\Workspace\Csharp Winform projects\SchoolsManager\SchoolsManager\SchoolManager\DataAccess\bin\Debug\DataAccess.dll.config
+E:\Workspace\Csharp Winform projects\SchoolsManager\SchoolsManager\SchoolManager\DataAccess\bin\Debug\DataAccess.dll
+E:\Workspace\Csharp Winform projects\SchoolsManager\SchoolsManager\SchoolManager\DataAccess\bin\Debug\DataAccess.pdb
+E:\Workspace\Csharp Winform projects\SchoolsManager\SchoolsManager\SchoolManager\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\Workspace\Csharp Winform projects\SchoolsManager\SchoolsManager\SchoolManager\DataAccess\obj\Debug\DataAccess.dll
+E:\Workspace\Csharp Winform projects\SchoolsManager\SchoolsManager\SchoolManager\DataAccess\obj\Debug\DataAccess.pdb
+E:\SMWF\StudentManager\DataAccess\bin\Debug\DataAccess.dll.config
+E:\SMWF\StudentManager\DataAccess\bin\Debug\DataAccess.dll
+E:\SMWF\StudentManager\DataAccess\bin\Debug\DataAccess.pdb
+E:\SMWF\StudentManager\DataAccess\obj\Debug\DataAccess.dll
+E:\SMWF\StudentManager\DataAccess\obj\Debug\DataAccess.pdb
+E:\SMWF\StudentManager\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache

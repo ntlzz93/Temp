@@ -1,0 +1,14 @@
+E:\Workspace\Csharp Winform projects\SchoolsManager\SchoolsManager\SchoolManager\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\Workspace\Csharp Winform projects\SchoolsManager\SchoolsManager\SchoolManager\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\Workspace\Csharp Winform projects\SchoolsManager\SchoolsManager\SchoolManager\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\Workspace\Csharp Winform projects\SchoolsManager\SchoolsManager\SchoolManager\BusinessLogic\bin\Debug\DataAccess.dll
+E:\Workspace\Csharp Winform projects\SchoolsManager\SchoolsManager\SchoolManager\BusinessLogic\bin\Debug\DataAccess.pdb
+E:\Workspace\Csharp Winform projects\SchoolsManager\SchoolsManager\SchoolManager\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\Workspace\Csharp Winform projects\SchoolsManager\SchoolsManager\SchoolManager\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\SMWF\StudentManager\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\SMWF\StudentManager\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\SMWF\StudentManager\BusinessLogic\bin\Debug\DataAccess.dll
+E:\SMWF\StudentManager\BusinessLogic\bin\Debug\DataAccess.pdb
+E:\SMWF\StudentManager\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\SMWF\StudentManager\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\SMWF\StudentManager\BusinessLogic\obj\Debug\BusinessLogic.pdb
