@@ -61,12 +61,17 @@ namespace SchoolManager.Form_Task
 
 						}
 						// search by name
-						if (txtSearch.Text == temp.Tea_Name)
-						{
-							gridControl1.RefreshDataSource();
-							gridControl1.DataSource = GetListDataByName(txtSearch.Text);
-							gridControl1.Show();
-						}
+						//int lenghttxt = txtSearch.Text.Length;
+						//int lenghtemp = temp.Tea_Name.Length;
+						//string s1 = temp.Tea_Name.Substring(lenghtemp - lenghttxt, lenghttxt);
+
+						//if (s1 == temp.Tea_Name)
+						//{
+						//	gridControl1.RefreshDataSource();
+						//	gridControl1.DataSource = GetListDataByName(txtSearch.Text);
+						//	gridControl1.Show();
+						//}
+						
 					}
 					
 				}

@@ -154,16 +154,19 @@
 			// 
 			// txtSearch
 			// 
+			this.txtSearch.ForeColor = System.Drawing.SystemColors.InactiveCaption;
 			this.txtSearch.Location = new System.Drawing.Point(-2, 14);
 			this.txtSearch.Margin = new System.Windows.Forms.Padding(5);
 			this.txtSearch.Name = "txtSearch";
 			this.txtSearch.Size = new System.Drawing.Size(180, 21);
 			this.txtSearch.TabIndex = 2;
+			this.txtSearch.Text = "Tìm kiếm theo mã giáo viên.......";
 			// 
 			// frmTsk_SearchTeacher
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+			this.AutoScroll = true;
 			this.ClientSize = new System.Drawing.Size(969, 490);
 			this.Controls.Add(this.txtSearch);
 			this.Controls.Add(this.btnSearch);
